@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Cannon Family]]></title>
         <description><![CDATA[The Cannon Family]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.cannonfamily.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 04:03:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 23:18:46 GMT</lastBuildDate>
+        <atom:link href="http://www.cannonfamily.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/134da764-3c14-4642-837f-d0c14e82bf59.jpg">]]></description>
-            <link>undefined5ce02565-5827-49d7-944c-5dd83b168331/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a0b01cd-f30c-48ec-a495-9c5859b84fcb.jpg">]]></description>
+            <link>http://www.cannonfamily.com/5ce02565-5827-49d7-944c-5dd83b168331/index.html</link>
             <guid isPermaLink="false">5ce02565-5827-49d7-944c-5dd83b168331</guid>
-            <pubDate>Mon, 21 Mar 2016 04:02:25 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 23:17:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
